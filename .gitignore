@@ -53,6 +53,10 @@ FLNotes
 *.bin
 *.txt
 
+# Images
+*.png
+*.jpg
+
 # TeX
 *.aux
 *.log
@@ -62,4 +66,5 @@ FLNotes
 *.log
 *.lof
 *.lot
+*.toc
 TeXs__Reports
