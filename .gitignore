@@ -1,0 +1,65 @@
+# Python
+ *.pyc
+ *.npy
+
+# Mac
+.DS_Store
+
+# Folders
+MCast
+FLNotes
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# C++
+*.user
+*.autosave
+
+# Datafiles
+*.dat
+*.png
+*.xml
+*.bin
+*.txt
+
+# TeX
+*.aux
+*.log
+*synctex.gz
+*.bib
+*.tex
+*.log
+*.lof
+*.lot
+TeXs__Reports
